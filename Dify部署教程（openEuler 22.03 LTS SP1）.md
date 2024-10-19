@@ -161,3 +161,4 @@ docker compose up -d
 
 等待所有容器启动后访问 [http://localhost/install](http://localhost/install)进入 Dify 控制台并开始初始化安装操作。
 ![[Pasted image 20241019160034.png]]
+https://github.com/simba-cn/-/blob/main/Pasted%20image%2020241019160034.png
